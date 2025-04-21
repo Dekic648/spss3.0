@@ -1,0 +1,3 @@
+TEMPLATES = {
+    "nps_diff": "{group1} has a higher NPS ({val1}) than {group2} ({val2})"
+}
